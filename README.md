@@ -10,3 +10,6 @@ Linguagens de Programação
 
 # Programador 
 - Ana Vitoria
+
+Repetição até a exaustão, com 
+correção leva a perfeição 
